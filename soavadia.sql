@@ -2,7 +2,7 @@ CREATE DATABASE soavadia;
 
 \c soavadia;
 
-CREATE TABLE receptionniste(**
+CREATE TABLE receptionniste(
     id_receptionniste serial primary key, 
     nom_receptionniste varchar(100) not null,
     prenom_receptionniste varchar(100),
@@ -12,7 +12,7 @@ CREATE TABLE receptionniste(**
     salaire_receptionniste int check(salaire_receptionniste >= 0)
 );
 
-CREATE TABLE chauffeur(**
+CREATE TABLE chauffeur(
     id_chauffeur serial primary key, 
     nom_chauffeur varchar(100) not null,
     prenom_chauffeur varchar(100),
