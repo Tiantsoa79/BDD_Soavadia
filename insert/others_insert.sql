@@ -1,5 +1,5 @@
 insert into type_payement (type_payement) values ('espece', 'mobile money');
-insert into incident (description_incident,depense_incident) values('roue creve', 10000),('accident',1000000),('panne',200000);
+insert into incident (description_incident,depense_incident) values('roue creve', 10000),('accident',1000000),('panne',200000),('papier non regle',200000),('route barre',200000),('eboulement',200000),('chauffeur malade',200000),('retard des clients',200000);
 insert into ville (nom_ville) values ('antananarivo'), ('toamasina'), ('mahajanga'), ('toliara'), ('fianarantsoa'), ('antsiranana');
 insert into trajet (frais_de_base,id_ville_depart,id_ville_arrivee) values (45000,1,2);
 insert into trajet (frais_de_base,id_ville_depart,id_ville_arrivee) values (55000,1,3);
@@ -38,3 +38,5 @@ insert into saison (evenement,coef_saison) values ('10 eme anniversaire', 2);
 insert into offre  (label_offre,nombre_place, coef_offre) values ('VIP', 12, 2.5),('lite', 15, 1), ('medium', 12, 2.5), ('prenium', 12, 2.5);
 insert into maintenance (description, depense_maintenance, date_maintenance) values ('faire le vidange', 100000, '2022-07-10'),('changement des ampoules', 10000,'2022-07-10'),('notoyage filtre air',23000,'2022-07-10',('diagnostique',30000,'2022-07-18');
 insert into voiture (immatriculation, fonctionnel, id_offre) values ('2345 TBD', true, '3'),('5767 TBB', true, '1'),('2334 TBC', true, '4'),('2345 TAV', true, '3'),('2356 TAK', true, '2'),('1098 TAM', true, '3'),('1134 TBC', true, '2'),('2685 TAR', false, '1'),('0098 TBJ', true, '1'),('2234 TBG', true, '4');
+
+

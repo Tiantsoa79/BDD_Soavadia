@@ -33,3 +33,6 @@ insert into chauffeur (id_chauffeur, nom_chauffeur, prenom_chauffeur, adresse_ch
 insert into chauffeur (id_chauffeur, nom_chauffeur, prenom_chauffeur, adresse_chauffeur, cin_chauffeur, telephone_chauffeur, salaire_chauffeur) values (33, 'Judas', 'Jacobowitz', 'Pervomays’ke', 867167616760, '0323050424', 2579046);
 insert into chauffeur (id_chauffeur, nom_chauffeur, prenom_chauffeur, adresse_chauffeur, cin_chauffeur, telephone_chauffeur, salaire_chauffeur) values (34, 'Jazmin', 'Skellon', 'Mudon', 223960632626, '0382669574', 2956841);
 insert into chauffeur (id_chauffeur, nom_chauffeur, prenom_chauffeur, adresse_chauffeur, cin_chauffeur, telephone_chauffeur, salaire_chauffeur) values (35, 'Tana', 'Frede', 'Goragorskiy', 283464768082, '0339504494', 1833628);
+
+
+
