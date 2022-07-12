@@ -44,7 +44,7 @@ This database contains the structure of the future company and its data.
  git init
 ```
 ```sh
- git clone https://github.com/LovaSalema/donn-e2_Soavadia
+ git clone https://github.com/ManoaRRR/BDD_Soavadia
 ```
 You can execute psql commands from `psql file` with 
 `\i (your file path)`
