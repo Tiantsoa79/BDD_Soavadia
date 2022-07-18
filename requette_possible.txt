@@ -1,21 +1,21 @@
--liste des client qui n'ony pas payer la totalité des frais.
--les clients qui ont participer a un voyage.
--afficher les places libres pour un voyage donné.
+(DONE)-liste des client qui n'ont pas payer la totalitï¿½ des frais.
+(DONE)-les clients qui ont participer a un voyage.
+-afficher les places libres pour un voyage donnï¿½.
 -afficher toutes les places des passagers d'un voyage.
--afficher tous les details d'un voyage (y compris les pris avec ou sans coefficient).
--afficher tous les details sur les voyages disponibles(y a encore des places libres) a unr date données.
+(DONE)-afficher tous les details d'un voyage (y compris les prix avec ou sans coefficient).
+(DONE)-Afficher TOUS les dÃ©tails sur les paiements d'un client
+-afficher tous les details sur les voyages disponibles(y a encore des places libres) a unr date donnï¿½es.
 -afficher les depense de l'agence: salaires personnels/ maintenances et incident
 -Totalisation du nombres de reservation par office (combien on a eu de reservation prenium, lite ou autre)
--afficher les details sur les voitures fonctionnels(pas en panne)
--afficher touts les depenses relatives
--afficher tous les depenses relatives a une voiture donnée.
--liste des voyages qui partent d'une certaine ville, ves une autres ville, a une date détérminer.
--liste des voyages pour un trajet déterminé(tout temps confondu) trié dans la date du voyage décroissants.
--affichées des reservation qui ne sont pas encore payées.
--liste des passagers qui sont partis a une date et heure données.
--afficher les listes de voyage a une horaire precis.
--affichers les voyages de la semaine dernière du mois dernier ou du dernier semèstre.
--afficher les voyages les plus rentables à une saison
+(DONE)-afficher les details sur les voitures fonctionnels(pas en panne)
+(DONE)-afficher tous les depenses relatives a une voiture donnï¿½e.
+-liste des voyages qui partent d'une certaine ville, ves une autres ville, a une date dï¿½tï¿½rminer.
+-liste des voyages pour un trajet dï¿½terminï¿½(tout temps confondu) triï¿½ dans la date du voyage dï¿½croissants.
+(DONE)-afficher les details des des reservation qui ne sont pas encore payï¿½es.
+(DONE)-liste des passagers qui sont partis a une date donnï¿½e.
+(DONE)-afficher les listes de voyage a une horaire precise.
+-affichers les voyages de la semaine derniï¿½re du mois dernier ou du dernier semï¿½stre.
+-afficher les voyages les plus rentables ï¿½ une saison
 
 
 prochaine reunion,
