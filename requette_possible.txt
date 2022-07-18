@@ -1,0 +1,24 @@
+(DONE)-liste des client qui n'ont pas payer la totalit� des frais.
+(DONE)-les clients qui ont participer a un voyage.
+-afficher les places libres pour un voyage donn�.
+-afficher toutes les places des passagers d'un voyage.
+(DONE)-afficher tous les details d'un voyage (y compris les prix avec ou sans coefficient).
+(DONE)-Afficher TOUS les détails sur les paiements d'un client
+-afficher tous les details sur les voyages disponibles(y a encore des places libres) a unr date donn�es.
+-afficher les depense de l'agence: salaires personnels/ maintenances et incident
+-Totalisation du nombres de reservation par office (combien on a eu de reservation prenium, lite ou autre)
+(DONE)-afficher les details sur les voitures fonctionnels(pas en panne)
+(DONE)-afficher tous les depenses relatives a une voiture donn�e.
+-liste des voyages qui partent d'une certaine ville, ves une autres ville, a une date d�t�rminer.
+-liste des voyages pour un trajet d�termin�(tout temps confondu) tri� dans la date du voyage d�croissants.
+(DONE)-afficher les details des des reservation qui ne sont pas encore pay�es.
+(DONE)-liste des passagers qui sont partis a une date donn�e.
+(DONE)-afficher les listes de voyage a une horaire precise.
+-affichers les voyages de la semaine derni�re du mois dernier ou du dernier sem�stre.
+-afficher les voyages les plus rentables � une saison
+
+
+prochaine reunion,
+*nombre de requette minimal = 20;
+	
+*prochaine reunion = 19/07/2022;
